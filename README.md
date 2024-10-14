@@ -124,5 +124,3 @@ Some potential areas for further improvement:
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
 ---
-
-Feel free to adjust the description and details as necessary!
