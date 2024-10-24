@@ -52,7 +52,7 @@ pip install torch pandas numpy joblib
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/nbeats-transaction-forecast.git
+   git clone https://github.com/shrey-mishra/nbeats-transaction-forecast.git
    cd nbeats-transaction-forecast
    ```
 
